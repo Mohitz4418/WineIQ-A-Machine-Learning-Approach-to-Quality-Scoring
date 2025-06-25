@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "WineIQ-A-Machine-Learning-Approach-to-Quality-Scoring"
 AUTHOR_USER_NAME = "Mohitz4418"
-SRC_REPO = "WineIQ-A-Machine-Learning-Approach-to-Quality-Scoring"
+SRC_REPO = "MLProject"
 AUTHOR_EMAIL = "mohitz4418@gmail.com"
 
  
